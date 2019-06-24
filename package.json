@@ -51,11 +51,10 @@
   "main": "index.js",
   "maintainers": [
     {
-      "name": "Joel Jeske",
-      "url": "https://github.com/joeljeske"
+      "name": "Tomas Vesely"
     }
   ],
-  "name": "karma-parallel",
+  "name": "karma-parallel-recc",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
